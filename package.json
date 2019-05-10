@@ -1,0 +1,19 @@
+{
+  "name": "webapp2019",
+  "version": "1.0.0",
+  "description": "A beginning web app for CodeSquad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewCodeSquad/webApp2019.git"
+  },
+  "author": "Andrew Ott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewCodeSquad/webApp2019/issues"
+  },
+  "homepage": "https://github.com/AndrewCodeSquad/webApp2019#readme"
+}
